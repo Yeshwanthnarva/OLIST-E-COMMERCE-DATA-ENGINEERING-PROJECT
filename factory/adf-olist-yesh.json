@@ -1,0 +1,15 @@
+{
+	"name": "adf-olist-yesh",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8cadaf96-f3ff-4b06-ab71-d70b82baadad",
+		"tenantId": "99e34304-7466-46e7-8878-712a837c0d24"
+	}
+}
